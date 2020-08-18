@@ -8,8 +8,7 @@ Experienced in building next generation cutting edge solution using artificial i
 
 Domain: Analytics, Data Management, Artificial Intelligence, Digital Transformation, Enterprise Solutions, Services Delivery, Banking, Retail, Telecom, Accounting
 
-Key Technologies- Python, SQL, Tableau, Power BI, SAS, Excel, Unix shell scripting, Google firebase analytics
-Trained Skills: R, Hadoop, Hive, Big Data analytics.
+Key Technologies- Python, SQL, Tableau, Power BI, SAS, Excel, Unix shell scripting, Google firebase analytics, R, Hadoop, Hive, Big Data analytics.
 
 Contact details :
 +971-524525296 (UAE),
