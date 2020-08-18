@@ -8,7 +8,7 @@ Experienced in building next generation cutting edge solution using artificial i
 
 Domain: Analytics, Data Management, Artificial Intelligence, Digital Transformation, Enterprise Solutions, Services Delivery, Banking, Retail, Telecom, Accounting
 
-Technologies: Python, SQL, Tableau, Power BI, SAS, Excel, Unix shell scripting, Google firebase analytics
+Technologies: Python, SQL, Tableau, Power BI, SAS, Excel, Unix shell scripting, Google firebase analytics.
 Trained on: R, Hadoop, Hive, Big Data analytics.
 
 Contact details :
