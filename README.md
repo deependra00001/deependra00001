@@ -1,4 +1,4 @@
-## Deependra Singh
+## Winner Never Quit
 
 I'm a Data Scientist & I enjoy solving problems. I have 9 years of experience in providing Machine learning and Artificial Intelligence solutions.
 
