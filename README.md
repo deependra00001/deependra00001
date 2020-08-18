@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm a Data Scientist & I enjoy solving problems. I have 9 years of experience in providing Machine learning and Artificial Intelligence solutions.
 
 Have hands on experience in developing and evaluating AI, Machine Learning models, along with data wrangling, data visualization and data process automation using Python.
